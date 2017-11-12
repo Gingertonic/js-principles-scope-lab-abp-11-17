@@ -1,5 +1,4 @@
 var customerName = "bob";
-let favoriteCustomer = "Beth"
 
 function upperCaseCustomerName() {
   customerName = customerName.toUpperCase()
@@ -19,4 +18,6 @@ function changeLeastFavoriteCustomer(string) {
   leastFavoriteCustomer = string
 }
 
-
+function favoriteCustomer() {
+  let favoriteCustomer = "Beth"
+}
