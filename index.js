@@ -18,6 +18,6 @@ function changeLeastFavoriteCustomer(string) {
   leastFavoriteCustomer = string
 }
 
-function favoriteCustomer() {
+function favoriteCustomerName() {
   let favoriteCustomer = "Beth"
 }
