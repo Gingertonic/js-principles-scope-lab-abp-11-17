@@ -20,6 +20,3 @@ function changeLeastFavoriteCustomer(string) {
 }
 
 
-function attemptTwoFavoriteCustomers(name2) {
-  favoriteCustomer = name2
-}
