@@ -14,12 +14,13 @@ function overwriteBestCustomer() {
 
 const leastFavoriteCustomer = "Magneto"
 
-function changeLeastFavoriteCustomer(string) {
+function changeLeastFavoriteCustomer(string)() {
   leastFavoriteCustomer = string
 }
 
-let favoriteCustomer = "Beth"
+
 
 function attemptTwoFavoriteCustomers("name2")() {
+  let favoriteCustomer = "Beth"
   favoriteCustomer = "name2"
 }
